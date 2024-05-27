@@ -1,2 +1,2 @@
-# C-_Projects
+# cpp_projects
 Refreshing C++ exercises 
